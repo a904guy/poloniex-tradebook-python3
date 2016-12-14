@@ -5,9 +5,6 @@
   
 ## Documentation: 
 Refer to the [Getting Started](https://github.com/a904guy/poloniex-python3/wiki/Getting-Started) section here.
-
-All of the APIs, and Streaming functions are implemented. Reference poloniex docs for method names.  
-[Poloniex API Documentation](https://poloniex.com/support/api/)
   
   
 ## Tested Platforms
